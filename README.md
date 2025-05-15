@@ -1,9 +1,9 @@
 # Kontan News Scraper
 
-Proyek ini adalah scraper berita dari situs Kontan yang fokus pada topik tarif Trump. Scraper ini menggunakan Python dan beberapa pustaka untuk mengambil dan mengolah data berita.
+This project is a news scraper for the Kontan website, focusing on the topic of Trump tariffs. The scraper uses Python and several libraries to collect and process news data.
 
-## Fitur
+## Features
 
-- Mengambil judul, tanggal, link, dan konten berita.
-- Menyimpan data ke dalam file CSV.
-- Mengklasifikasikan berita menjadi "Straight News" dan "In-Depth News" berdasarkan jumlah kata.
+- Retrieves titles, dates, links, and content of news articles.
+- Saves data into a CSV file.
+- Classifies news into "Straight News" and "In-Depth News" based on word count.
