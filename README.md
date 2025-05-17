@@ -4,6 +4,6 @@ This project is a news scraper for the Kontan website, focusing on the topic of 
 
 ## Features
 
-- Retrieves titles, dates, links, and content of news articleS
+- Retrieves titles, dates, links, and content of news articles.
 - Saves data into a CSV file.
 - Classifies news into "Straight News" and "In-Depth News" based on word count.
